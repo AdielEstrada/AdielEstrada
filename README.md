@@ -4,6 +4,10 @@
 
 - <b>Server 2016 Homelab</b>
   - [Setting Up Server 2016](https://github.com/AdielEstrada/Server2016_Setup)
+<h2>AutoCAD and Revit Drafting Experience</h2>
+
+- <b>Architecture 2nd Year Applications</b>
+  - [Master Plan]
 
 <h2> 🤳 Connect with me:</h2>
 
