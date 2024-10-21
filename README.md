@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adiel! </br> CompTIA A+ Student, Helpdesk Support, Information Technology Support Specialist | AutoCAD Drafter, Revit Drafter</h1>
+<h1>Hi, I'm Adiel! </br> CompTIA A+ Certified, Helpdesk Support, Information Technology Support Specialist</h1>
 
 <h2>👨‍💻 Information Technology Helpdesk Experience:</h2>
 
