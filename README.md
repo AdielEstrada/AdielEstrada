@@ -7,7 +7,7 @@
 <h2>AutoCAD and Revit Drafting Experience</h2>
 
 - <b>Architecture 2nd Year Applications</b>
-  - [Master Plan]
+  - [Master Plan](https://github.com/AdielEstrada/Master_Plan)
 
 <h2> 🤳 Connect with me:</h2>
 
