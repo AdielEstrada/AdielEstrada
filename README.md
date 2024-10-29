@@ -6,9 +6,9 @@
   - [Setting Up Server 2016](https://github.com/AdielEstrada/Server2016_Setup)
 <h2>AutoCAD and Revit Drafting Experience</h2>
 
-- <b>Architecture 2nd Year Applications</b>
+- <b>Recreational Center Project</b>
   - [Master Plan](https://github.com/AdielEstrada/Master_Plan)
-
+  - [Sketchup Rendering]
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Adiel Estrada Carrazco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
