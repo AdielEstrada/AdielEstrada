@@ -8,7 +8,7 @@
 
 - <b>Recreational Center Project</b>
   - [Master Plan](https://github.com/AdielEstrada/Master_Plan)
-  - [Sketchup Rendering]
+  - [Sketchup Rendering](https://github.com/AdielEstrada/Sketchup-Rendering)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Adiel Estrada Carrazco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
