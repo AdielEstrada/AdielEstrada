@@ -12,6 +12,7 @@
 
 - <b>Barndominium Project</b>
   - [Floor Plan](https://github.com/AdielEstrada/Floor-Plan)
+  - [Elevation Plan](https://github.com/AdielEstrada/Barndominium_Elevations)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Adiel Estrada Carrazco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
