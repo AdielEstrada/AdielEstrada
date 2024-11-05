@@ -17,6 +17,7 @@
 
 - <b>Apartment Project</b>
   - [Floor Plan](https://github.com/AdielEstrada/Apartment-Floor_Plan)
+  - [Fascades](https://github.com/AdielEstrada/Apartment-Fascades)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Adiel Estrada Carrazco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
