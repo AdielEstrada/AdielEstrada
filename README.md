@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Helpdesk Experience:</h2>
 
 - <b>Server 2016 Project</b>
-  - [Setting Up Server 2016](https://github.com/AdielEstrada/Server2016_Setup)
-  - [Installing Active Directory, and Renaming Server Environment (Upcoming)](https://github.com/AdielEstrada/Server_2016-Installing-AD)
+  - [Part 1 - Setting Up Server 2016](https://github.com/AdielEstrada/Server2016_Setup)
+  - [Part 2 - Installing Active Directory, and Renaming Server Environment (Upcoming)](https://github.com/AdielEstrada/Server_2016-Installing-AD)
 <h2>✍️AutoCAD and Revit Drafting Experience</h2>
 
 - <b>Recreational Center Project</b>
