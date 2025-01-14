@@ -4,7 +4,8 @@
 
 - <b>Server 2016 Project</b>
   - [Part 1 - Setting Up Server 2016](https://github.com/AdielEstrada/Server2016_Setup)
-  - [Part 2 - Installing Active Directory, and Renaming Server Environment (Upcoming)](https://github.com/AdielEstrada/Server_2016-Installing-AD)
+  - [Part 2 - Installing Active Directory, and Renaming Server Environment](https://github.com/AdielEstrada/Server_2016-Installing-AD)
+  - [Part 3 - Creating Accounts in Active Directory and Using Common CMD commands]
 <h2>✍️AutoCAD and Revit Drafting Experience</h2>
 
 - <b>Recreational Center Project</b>
