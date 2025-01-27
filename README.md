@@ -6,7 +6,7 @@
   - [Part 1 - Setting Up Server 2016](https://github.com/AdielEstrada/Server2016_Setup)
   - [Part 2 - Installing Active Directory, and Renaming Server Environment](https://github.com/AdielEstrada/Server_2016-Installing-AD)
   - [Part 3 - Using Active Directory and Using Common CMD commands](https://github.com/AdielEstrada/AD-Account_Creation_CMD)
-  - [Part 4 - Setting Up A Computer and Installing RSAT Tools](https://github.com/AdielEstrada/Computer_Setup-RSAT_Tools_OV)
+  - [Part 4 - Setting Up A Computer With RSAT Tools, and Joining It To A Domain](https://github.com/AdielEstrada/Computer_Setup-RSAT_Tools_OV)
 <h2>✍️AutoCAD and Revit Drafting Experience</h2>
 
 - <b>Recreational Center Project</b>
