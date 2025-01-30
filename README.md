@@ -1,29 +1,13 @@
-<h1>Hi, I'm Adiel! </br> CompTIA A+ Certified, Helpdesk Support, Information Technology Support Specialist | CAD Drafter</h1>
+<h1>Hi, I'm Adiel! </br> CompTIA A+ Certified, Helpdesk Support, Information Technology Support Specialist</h1>
 
 <h2>👨‍💻 Information Technology Helpdesk Experience:</h2>
 
-- <b>Server 2016 Project</b>
+- <b>Server Project Experience</b>
   - [Part 1 - Setting Up Server 2016](https://github.com/AdielEstrada/Server2016_Setup)
   - [Part 2 - Installing Active Directory, and Renaming Server Environment](https://github.com/AdielEstrada/Server_2016-Installing-AD)
   - [Part 3 - Using Active Directory and Using Common CMD commands](https://github.com/AdielEstrada/AD-Account_Creation_CMD)
   - [Part 4 - Setting Up A Computer With RSAT Tools, and Joining It To A Domain](https://github.com/AdielEstrada/Computer_Setup-RSAT_Tools_OV)
-<h2>✍️AutoCAD and Revit Drafting Experience</h2>
 
-- <b>Recreational Center Project</b>
-  - [Master Plan](https://github.com/AdielEstrada/Master_Plan)
-  - [Sketchup Rendering](https://github.com/AdielEstrada/Sketchup-Rendering)
-
-- <b>Barndominium Project</b>
-  - [Floor Plan](https://github.com/AdielEstrada/Floor-Plan)
-  - [Elevation Plan](https://github.com/AdielEstrada/Barndominium_Elevations)
-  - [Section Plan](https://github.com/AdielEstrada/Barndominium-Sections)
-
-- <b>Apartment Project</b>
-  - [Floor Plan](https://github.com/AdielEstrada/Apartment-Floor_Plan)
-  - [Fascades](https://github.com/AdielEstrada/Apartment-Fascades)
-  - [Electrical Plan](https://github.com/AdielEstrada/Apartment-Electrical_Plan)
-  - [Plumbing Plan](https://github.com/AdielEstrada/Apartment-Plumbing_Plan)
-  - [Sewer Plan](https://github.com/AdielEstrada/Apartment-Sewer_Plan)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Adiel Estrada Carrazco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
